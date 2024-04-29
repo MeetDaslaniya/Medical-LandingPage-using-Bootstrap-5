@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Montserrat;
+}
+.logo{
+    margin-left: 240px;
+    font-size: 24px;
+}
+
+.nev-button{
+    margin-right: 330px;
+    width: 137px;
+    height: 52px;
+}
+
+.welcome{
+    padding-left: 180px;
+    padding-top: 130px;
+}
+
+.online-appo{
+    font-size: 58px;
+    padding-left: 180px;
+    padding-top: 30px;
+    color: #252B42;
+}
+
+.first-p{
+    padding-left: 180px;
+    padding-top: 30px;
+    font-size: 20px;
+    color: #737373;
+}
+
+.getOuotebtn{
+    margin-left: 180px;
+    margin-top: 30px;
+    width: 192px;
+    height: 52px;
+    background-color: #23A6F0;
+}
+.getOuotebtn2{
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 162px;
+    height: 52px;
+}
+
+.first-block{
+    margin-bottom: 200px;
+}
+
+.women{
+    margin-left: 200px;
+    position: absolute;
+}
+
+.rect-top{
+    position: relative;
+    left: 650px;
+    bottom: 35px;
+}
+
+.graph{
+    position: relative;
+    top: 160px;
+    right: 30px;
+}
+
+.rect-down{
+    left: 315px;
+    top: 445px;
+    position: relative;
+}
+
+.cheat{
+    position: relative;
+    top: 220px;
+    left: 72px;
+}
+
+.second-box{
+    margin-top: 100px;
+}
+
+.practiceAdvice{
+    padding-top: 130px;
+}
+
+.second-card{
+    /* border: none; */
+    /* border-radius: 5px; */
+    box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);;
+}
+
+.third-box{
+    background-color: #FFDCD1;
+}
+
+.linkdiv a{
+    text-decoration: none;
+    font-weight: 600;
+    color: #737373;
+    line-height: 35px;
+}
+
+::placeholder{
+    padding-left: 20px;
+}
